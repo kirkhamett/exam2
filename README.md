@@ -21,3 +21,5 @@ Application was build using Angular 11 and bundled libararies (rxjs, etc). No ot
 * code optimization can be improved (memory, etc)
 * wasn't able to complete the userid filter do to time constraint on my end
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/83465456/117948721-fafd0a00-b343-11eb-952d-6df84ba116ca.png)
