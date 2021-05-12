@@ -1,6 +1,7 @@
 ## Pre-requisites
 * node
 * npm
+* Angular CLI tool (for ng serve)
 
 ## Instructions for local build
 
